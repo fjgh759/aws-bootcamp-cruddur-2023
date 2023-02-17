@@ -1,0 +1,10 @@
+aws sns create-topic --name billing-alarm
+
+Resultado=arn:aws:sns:us-east-1:971098245225:billing-alarm
+
+aws sns subscribe \
+    --topic-arn arn:aws:sns:us-east-1:971098245225:billing-alarm \
+    --protocol email \
+    --notification-endpoint fjgh75922@gmail.com
+
+    
