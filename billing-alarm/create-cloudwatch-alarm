@@ -1,0 +1,1 @@
+aws cloudwatch put-metric-alarm --cli-input-json file://billing-alarm/alarm-config.json
