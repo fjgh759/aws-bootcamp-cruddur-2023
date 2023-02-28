@@ -28,3 +28,5 @@ docker run --rm -p 4567:4567 -it backend-flask (it is missing env vars)
 docker run --rm -p 4567:4567 -it -e FRONTEND_URL='*' -e BACKEND_URL='*' backend-flask (the order of the command an variables matters)
 
 We can specify ENV VAR on HOST OS so if we dont specify splicitly the value on the command it will take it from HOST  OS
+
+Frontend was not running due missing npm start command, remember to view logs of dockers.
