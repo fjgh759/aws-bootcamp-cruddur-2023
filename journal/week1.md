@@ -6,13 +6,19 @@ All the homework has been done following alone the videos, avoiding copy paste o
 
 This week i have also taken my time to work with markdown journals expecting they look better.
 
+Im customizing a little bit the messages at Home and Notifications Page.
+
 ## Required homework proofs
 
-![Containerize Application](/assets/week-1/frontend_working_using_dockerfile.PNG)</li>
-![Write a Flask Backend Endpoint for Notifications](/assets/week-1/notifications_backend_endpoint_working.PNG)</li>
-![Write a React Page for Notifications](/assets/week-1/Frontend_notification_endpoint.PNG)
-![Run DynamoDB Local Container and ensure it works](/assets/week-1/Containers_running_dynamodb_postgre_2.PNG)
-![Run Postgres Container and ensure it works](/assets/week-1/PostgreSQL_working.PNG)
+Containerize Application![Containerize Application](assets/week-1/frontend_working_using_dockerfile.PNG)
+
+Write a Flask Backend Endpoint for Notifications![Write a Flask Backend Endpoint for Notifications](assets/week-1/notifications_backend_endpoint_working.PNG)
+
+Write a React Page for Notifications![Write a React Page for Notifications](assets/week-1/Frontend_notification_endpoint.PNG)
+
+Run DynamoDB Local Container and ensure it works![Run DynamoDB Local Container and ensure it works](assets/week-1/Containers_running_dynamodb_postgre_2.PNG)
+
+Run Postgres Container and ensure it works![Run Postgres Container and ensure it works](assets/week-1/PostgreSQL_working.PNG)
 
 ## Lesson learned during Live video
 
