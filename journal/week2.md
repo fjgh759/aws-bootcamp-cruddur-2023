@@ -52,3 +52,20 @@ provider.add_span_processor(processor)
 trace.set_tracer_provider(provider)
 tracer = trace.get_tracer(__name__)
 ```
+## Open docker ports automatically (Added on gitpod.yml)
+
+´´´
+ports:
+  - name: frontend
+    port: 3000
+    onOpen: open-browser
+    visibility: public
+  - name: backend
+    port: 4567
+    visibility: public
+  - name: xray-daemon
+    port: 2000
+    visibility: public
+´´´
+
+# Added Simple processor on app.py
